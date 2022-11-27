@@ -1,2 +1,2 @@
-# ifsmf-bs-js
+# ifsmg-bs-js
 Exercicio de Bootstrap
